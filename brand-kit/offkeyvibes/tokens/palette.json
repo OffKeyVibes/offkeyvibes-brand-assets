@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "brand": "OffKeyVibes",
+    "source": "Extracted from released logo, wide banner, and Break The Chains artwork",
+    "updated": "2026-03-23"
+  },
+  "guidance": {
+    "default_lane": "ember",
+    "default_note": "Use the ember/red/orange palette as the main OffKeyVibes identity.",
+    "experimental_lanes": [
+      "blue"
+    ],
+    "experimental_note": "Blue can exist as an alternate concept, but it should not replace the core brand by accident."
+  },
+  "colors": {
+    "obsidian": "#030102",
+    "charred_black": "#0A0103",
+    "ember_ink": "#160507",
+    "smoke_brown": "#1C0E0D",
+    "burnt_rust": "#4D1E11",
+    "cinder_red": "#8A2516",
+    "ember_orange": "#C05829",
+    "signal_orange": "#E56F1D",
+    "molten_gold": "#DC9747",
+    "ash_gold": "#D8C786",
+    "bone_white": "#F4F8F3",
+    "deep_violet_shadow": "#2E003C"
+  },
+  "roles": {
+    "page_background": "#030102",
+    "panel_background": "#1C0E0D",
+    "panel_border": "#4D1E11",
+    "text_primary": "#F4F8F3",
+    "text_secondary": "#D8C786",
+    "accent_primary": "#E56F1D",
+    "accent_secondary": "#DC9747",
+    "accent_deep": "#8A2516",
+    "logo_shadow": "#2E003C"
+  }
+}

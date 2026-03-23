@@ -1,0 +1,26 @@
+/* OffKeyVibes default lane: ember / red / orange.
+   Blue is experimental only and should not replace the core palette by accident. */
+:root {
+  --okv-obsidian: #030102;
+  --okv-charred-black: #0a0103;
+  --okv-ember-ink: #160507;
+  --okv-smoke-brown: #1c0e0d;
+  --okv-burnt-rust: #4d1e11;
+  --okv-cinder-red: #8a2516;
+  --okv-ember-orange: #c05829;
+  --okv-signal-orange: #e56f1d;
+  --okv-molten-gold: #dc9747;
+  --okv-ash-gold: #d8c786;
+  --okv-bone-white: #f4f8f3;
+  --okv-deep-violet-shadow: #2e003c;
+
+  --okv-page-background: var(--okv-obsidian);
+  --okv-panel-background: var(--okv-smoke-brown);
+  --okv-panel-border: var(--okv-burnt-rust);
+  --okv-text-primary: var(--okv-bone-white);
+  --okv-text-secondary: var(--okv-ash-gold);
+  --okv-accent-primary: var(--okv-signal-orange);
+  --okv-accent-secondary: var(--okv-molten-gold);
+  --okv-accent-deep: var(--okv-cinder-red);
+  --okv-logo-shadow: var(--okv-deep-violet-shadow);
+}
